@@ -1,0 +1,9 @@
+shape_predictor_68_face_landmarks.dat
+FRLL
+env/
+deepface/
+/Dataset/
+*.h5
+weights/
+.ipynb_checkpoints/
+__pycache__/
